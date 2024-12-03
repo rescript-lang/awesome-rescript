@@ -83,6 +83,9 @@ Roughly sorted from newest to oldest. But some posts have no date or get updated
 - 2021/08 - [@hswolff](https://github.com/hswolff) - [What is ReScript?](https://youtu.be/kAWP0laFz6M)
 - 2021/04 - [@tom-sherman](https://github.com/tom-sherman) - NorfolkDevelopers - [Should you consider ReScript over Typescript for your next project?](https://youtu.be/XWgL51JSbGI)
 - 2020/10 - [@IwanKaramazow](https://github.com/IwanKaramazow) and [@serras](https://github.com/serras) - 47 Degrees - [Immutable Conversations - ReScript](https://youtu.be/IlykOL4Z0gw)
+- 2024/05 - [@nojaf](https://github.com/nojaf) - [A glimpse of ReScript](https://www.youtube.com/watch?v=Giio_WHNDmQ)
+- 2024/08 - [@cristianoc](https://github.com/cristianoc) - [Intro to compiler development | ReScript Retreat 2024](https://www.youtube.com/watch?v=sQinTXDynew)
+- 2024/11 - [@nojaf](https://github.com/nojaf) = [An early look at @rescript/webapi](https://www.youtube.com/watch?v=MC-dbM-GEuw)
 
 #### ReScript Community Meetings
 - 2022/05 - [ReScript Community Meeting May 2022](https://www.youtube.com/watch?v=t5wAuyXB1IA)
@@ -97,6 +100,7 @@ To discover libraries and bindings for ReScript, please use the [official packag
 - [Next.js](https://github.com/ryyppy/rescript-nextjs-template) by [@ryyppy](https://github.com/ryyppy)
 - [Remix](https://github.com/tom-sherman/rescript-remix-template) by [@tom-sherman](https://github.com/tom-sherman)
 - [RescriptReact + TailwindCSS + Webpack](https://github.com/nyinyithann/rescript-react-webpack-tailwind-template) by [@nyinyithann](https://github.com/nyinyithann)
+- [create-rescript-app](https://github.com/rescript-lang/create-rescript-app)
 
 ### Editor Support
 
@@ -110,6 +114,7 @@ To discover libraries and bindings for ReScript, please use the [official packag
 - [Atom](https://atom.io/packages/ide-rescript)
 - [IDEA](https://github.com/giraud/reasonml-idea-plugin)
 - [Emacs](https://github.com/reasonml-editor/reason-mode)
+- [Zed](https://github.com/humaans/rescript-zed)
 
 #### Other extensions
 
