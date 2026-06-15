@@ -95,6 +95,8 @@ Roughly sorted from newest to oldest. But some posts have no date or get updated
 [ReScript Package Index](https://rescript-lang.org/packages)
 To discover libraries and bindings for ReScript, please use the [official package index tool](https://rescript-lang.org/packages). Libraries with the `rescript` keyword in their `package.json` will appear there, as well as manually added resources. If you happen to find no bindings for a library, please ask for it on the [forum](<(https://forum.rescript-lang.org)>). Chances are that somebody already wrote them, but kept them private, because maintaining a full set of bindings is always harder than tweaking them to one's specific needs.
 
+If no bindings exist yet, you can generate a starting point from the library's TypeScript types with [rescript-bindgen](https://github.com/juspay/rescript-bindgen) — a deterministic `.d.ts` → ReScript binding generator (type-safe, no `%identity`), which you then tweak to your needs.
+
 ### Templates and Boilerplates
 
 - [Next.js](https://github.com/ryyppy/rescript-nextjs-template) by [@ryyppy](https://github.com/ryyppy)
